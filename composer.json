@@ -1,11 +1,10 @@
 {
-    "name": "laravel/users",
-    "description": "Lalaravel users controller generator",
+    "name": "laravell/users",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Laravel\\Users\\": "src/"
+            "Laravell\\Users\\": "src/"
         }
     },
     "authors": [
