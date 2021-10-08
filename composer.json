@@ -1,0 +1,18 @@
+{
+    "name": "laravel/users",
+    "description": "Lalaravel users controller generator",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Laravel\\Users\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "javierSolanoP",
+            "email": "jsmolano24@misena.edu.co"
+        }
+    ],
+    "require": {}
+}
